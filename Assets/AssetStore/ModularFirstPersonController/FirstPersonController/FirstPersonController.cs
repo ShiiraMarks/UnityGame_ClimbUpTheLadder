@@ -39,6 +39,8 @@ public class FirstPersonController : MonoBehaviour
     private float pitch = 0.0f;
     private Image crosshairObject;
 
+
+
     #region Camera Zoom Variables
 
     public bool enableZoom = true;
