@@ -1,1 +1,25 @@
-A Unity game in passing an open world in the form of a giant peculiar mountain that must be conquered, the use of stairs and physics will help in this player.
+# ClimbUpTheLadder
+
+Платформер от первого лица, построенный на понятной и простой концепции подъёма до самой вершины горы с использованием единственной механики. Кроме того окружающая среда будет затруднять прохождение создавая насыщенный и напряжённый геймплей.
+> [!IMPORTANT]  
+  > Это тестовый билд, в будущем игра может отличаться от нынешнего вида
+## Основные механики
+- Drag_and_drop механика
+- Динамичная физика
+- Система сохранений
+- UI интерфейс
+- Система здоровья
+- Динамическое окружение
+- Погодные условия
+- Пост-обработка
+
+## Технологии
+- Unity 2022.3
+- C#
+- Blender
+
+## Установка (пока недоступно)
+...
+
+## Screenshots / Gameplay GIF
+<img width="922" height="545" alt="image" src="https://github.com/user-attachments/assets/81824355-1bb3-4e65-bebc-544f28187c7d" />
