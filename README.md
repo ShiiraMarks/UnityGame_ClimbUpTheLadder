@@ -18,8 +18,5 @@
 - C#
 - Blender
 
-## Установка (пока недоступно)
-...
-
 ## Screenshots / Gameplay GIF
 <img width="922" height="545" alt="image" src="https://github.com/user-attachments/assets/81824355-1bb3-4e65-bebc-544f28187c7d" />
